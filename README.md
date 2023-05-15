@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=a5acdf&height=170&section=header&text=LEE%20YONG%20SANG&fontSize=70&animation=fadeIn&fontAlignY=48&desc=House&descAlignY=68&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=random&height=170&section=header&text=LEE%20YONG%20SANG&fontSize=70&animation=fadeIn&fontAlignY=48&desc=House&descAlignY=68&descAlign=50" />
 </p>
 
 <p align='center'>⚙️ Introduction  
